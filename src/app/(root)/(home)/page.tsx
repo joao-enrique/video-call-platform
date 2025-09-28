@@ -24,6 +24,7 @@ export default function Home() {
       case "Join Interview":
         setModalType("join");
         setShowModal(true);
+        break;
       default:
         router.push(`/${title.toLowerCase()}`);
     }
