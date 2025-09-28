@@ -12,7 +12,7 @@ export const getAllInterviews = query({
     }
 })
 
-export const myInterviews = query({
+export const getMyInterviews = query({
     handler: async(ctx) => {
         const identity = await ctx.auth.getUserIdentity();
         if(!identity) return [];
