@@ -23,7 +23,7 @@ function MeetingSetup({ onSetupComplete }: { onSetupComplete: () => void }) {
     else call.microphone.enable();
   }, [isMicDisabled, call.microphone]);
 
-  const handleJoin = async () => {
+  const handleJoin = async() => {
     await call.join();
     onSetupComplete();
   };
