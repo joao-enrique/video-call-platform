@@ -1,4 +1,4 @@
-<h1 align="left">🎥 PLATADORMA DE ENTREVISA POR VIDEO CHAMADA ✨</h1>
+<h1 align="left">🎥 PLATAFORMA DE ENTREVISA POR VIDEO CHAMADA ✨</h1>
 
 <div align="center">
     <a href="https://video-call-platform-gbfegyeid-joaos-projects-469c9508.vercel.app/" target="_blank"> 
