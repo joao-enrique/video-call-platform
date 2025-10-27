@@ -2,13 +2,7 @@
 
 <div align="center">
     <a href="https://video-call-platform-gbfegyeid-joaos-projects-469c9508.vercel.app/" target="_blank"> 
-        <img src="preview-for-project.png" alt="Preview da aplicação" /> 
-    </a> 
-</div>
-
-<div align="center">
-    <a href="https://video-call-platform-gbfegyeid-joaos-projects-469c9508.vercel.app/" target="_blank"> 
-        <img src="button.png" alt="Button image" /> 
+        <img src="https://i.ibb.co/PvmND5Sk/CONFIRA-O-PROJETO-AQUI-1.png" alt="Button image" /> 
     </a> 
 </div>
 
